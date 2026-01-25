@@ -9,4 +9,5 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-mcr.microsoft.com/dotnet/aspnet:7.0
+#mcr.microsoft.com/dotnet/aspnet:7.0
+python:3.12
